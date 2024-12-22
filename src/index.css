@@ -267,22 +267,23 @@ ul {
 
 .color-form {
     display: flex;
-  }
-  input[type='text'] {
+}
+input[type='text'] {
     border-color: transparent;
     padding: 0.5rem 1rem;
     font-size: 1.25rem;
     max-width: 200px;
-  }
-  input[type='color'] {
+}
+input[type='color'] {
     height: 100%;
     background-color: var(--white);
     border-color: var(--white);
-  }
-  .container .btn {
+}
+.container .btn {
     border-radius: 0;
     border-top-right-radius: var(--borderRadius);
     border-bottom-right-radius: var(--borderRadius);
     letter-spacing: 3px;
     transition-duration: 0s;
-  }
+}
+
