@@ -170,3 +170,11 @@ ul {
     border-radius: var(--borderRadius);
   }
 
+  .alert-danger {
+    color: var(--red-dark);
+    background: var(--red-light);
+  }
+  .alert-success {
+    color: var(--green-dark);
+    background: var(--green-light);
+  }
