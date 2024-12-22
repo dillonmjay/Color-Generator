@@ -209,16 +209,18 @@ ul {
 .form-row {
     margin-bottom: 1rem;
 }
-  
-  .form-textarea {
+
+.form-textarea {
     height: 7rem;
-  }
-  ::placeholder {
+}
+::placeholder {
     font-family: inherit;
     color: var(--grey-400);
-  }
-  .form-alert {
+}
+.form-alert {
     color: var(--red-dark);
     letter-spacing: var(--letterSpacing);
     text-transform: capitalize;
-  }
+}
+
+
