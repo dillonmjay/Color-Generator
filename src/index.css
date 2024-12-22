@@ -168,13 +168,13 @@ ul {
     margin-bottom: 1rem;
     border-color: transparent;
     border-radius: var(--borderRadius);
-  }
+}
 
-  .alert-danger {
+.alert-danger {
     color: var(--red-dark);
     background: var(--red-light);
-  }
-  .alert-success {
+}
+.alert-success {
     color: var(--green-dark);
     background: var(--green-light);
-  }
+}
