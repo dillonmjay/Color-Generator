@@ -108,3 +108,8 @@ h5 {
     font-size: 1.25rem;
 }
 
+.text {
+    margin-bottom: 1.5rem;
+    max-width: 40em;
+}
+
