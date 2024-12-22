@@ -241,3 +241,18 @@ ul {
     margin: 0 auto;
 }
 
+/* title */
+
+.title {
+    text-align: center;
+    margin:2% auto;
+    font-weight:bolder;
+}
+
+.title-underline {
+    width: 7rem;
+    height: 0.75rem;
+    margin: 0 auto;
+    margin-top: 1rem;
+}
+
