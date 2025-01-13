@@ -47,7 +47,7 @@ const App = () => {
   }
   return (
     <div>
-      <h1 className="title"><a href="https://dillonmjay.com">DILLONMJAY</a> Color Generator</h1>
+      <h1 className="title"><a href="/">DILLONMJAY</a> Color Generator</h1>
       <p className="title-underline" style={{backgroundColor:formData.color}}></p>
       <div className="container">
         <form className="color-form" onSubmit={handleSubmit}>
